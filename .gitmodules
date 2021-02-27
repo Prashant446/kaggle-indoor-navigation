@@ -1,0 +1,3 @@
+[submodule "indoor-location-competition-20"]
+	path = indoor-location-competition-20
+	url = https://github.com/location-competition/indoor-location-competition-20.git
