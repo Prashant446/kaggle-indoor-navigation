@@ -1,3 +1,6 @@
 data
 temp.py
 .vscode
+.ipynb_checkpoints
+bin/
+log/
